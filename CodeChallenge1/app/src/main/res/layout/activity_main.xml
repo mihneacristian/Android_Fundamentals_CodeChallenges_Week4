@@ -36,6 +36,12 @@
                 android:layout_alignParentEnd="true"
                 android:layout_centerInParent="true"
                 android:src="@drawable/android_2"></ImageView>
+            
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_alignParentBottom="true"
+                android:background="@color/dark_green_black"></View>
 
         </RelativeLayout>
 
